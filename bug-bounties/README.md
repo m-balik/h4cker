@@ -1,4 +1,4 @@
-# Bug Bounty Tips and Information
+-# Bug Bounty Tips and Information
 
 ## Getting Started
 
